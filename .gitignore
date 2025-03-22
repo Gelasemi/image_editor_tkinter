@@ -2,5 +2,11 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.exe
+dist/
+build/
+*.spec
 .Python
 venv/
+
+
